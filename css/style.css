@@ -1,0 +1,22 @@
+body, img {
+    width: 800px;
+}
+p, footer, th, td, caption {
+    font-size: 20px;
+}
+
+/* font-face {
+    font-family: "PTSerif-Regular";  
+    
+    font-style: normal; 
+    font-weight: normal; 
+  } */
+   h1 {
+    font-size: 64px;
+   }
+
+
+  td, th {
+    padding: 10px;
+    text-align: left;
+}
