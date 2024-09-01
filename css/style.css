@@ -25,8 +25,9 @@ h2 {
     padding: 10px;
     text-align: left;
 }
+*/  не работает
 ::selection {
-    background-color: #78BC29; /* Цвет фона выделенного текста */
-    color: #FFFFFF;            /* Цвет выделенного текста */
-}
+    background-color: #78BC29; 
+    color: #FFFFFF;            
+}  */
 
