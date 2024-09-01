@@ -1,6 +1,9 @@
 body, img {
     width: 800px;
 }
+img {
+  float: left;
+}
 p, footer, th, td, caption {
     font-size: 20px;
 }
@@ -26,3 +29,4 @@ h2 {
     background-color: #78BC29; /* Цвет фона выделенного текста */
     color: #FFFFFF;            /* Цвет выделенного текста */
 }
+
