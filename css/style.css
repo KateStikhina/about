@@ -4,7 +4,7 @@ body, img {
 p, footer, th, td, caption {
     font-size: 20px;
 }
-
+h2 
 /* font-face {
     font-family: "PTSerif-Regular";  
     
@@ -19,4 +19,8 @@ p, footer, th, td, caption {
   td, th {
     padding: 10px;
     text-align: left;
+}
+::selection {
+    background-color: #78BC29; /* Цвет фона выделенного текста */
+    color: #FFFFFF;            /* Цвет выделенного текста */
 }
