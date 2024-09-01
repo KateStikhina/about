@@ -4,7 +4,9 @@ body, img {
 p, footer, th, td, caption {
     font-size: 20px;
 }
-h2 
+h2 {
+    font-size: 24px;
+}
 /* font-face {
     font-family: "PTSerif-Regular";  
     
